@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Hi 👋, I'm Ahmed Esmail<br>A passionate backend developer from egypt<br>Ask me about Full Stack Using Djnango,Django rest_framework For API and fastAPI<br>I’m currently learning Reactjs<br>How to reach me ahmedesmailalimohamed@gmail.com<br>
+#  About Me:
+### Hi 👋, I'm Ahmed Esmail<br>A passionate backend developer from egypt<br>Ask me about Full Stack Using Djnango,Django rest_framework For API and fastAPI<br>I’m currently learning Reactjs and i'm going deeper in rest_framework<br>How to reach me ahmedesmailalimohamed@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -17,10 +17,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmedesmail07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmedesmail07&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
