@@ -1,15 +1,116 @@
-### Hi, I'm Ahmed Esmail<br>A passionate software engineer<br><br>Reach me: ahmedesmailalimohamed@gmail.com<br>
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedesmail07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedesmail07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedesmail07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Ahmad Esmail
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedesmail07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
- -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Senior Software Engineer | Backend Architect | AI Systems | LLM Servers | AI Agents**
+
+[LinkedIn](https://www.linkedin.com/in/ahmad-esmail07/) • [GitHub](https://github.com/ahmedesmail07) • [Email](mailto:ahmd.esmail.ali@gmail.com)
+
+</div>
+
+---
+
+## Current Role
+
+**Senior Software Engineer** at Revealsite
+
+Building next-generation healthcare SaaS solutions with AI-powered automation and real-time systems.
+
+**Key Contributions:**
+
+- Architected custom LLM server integrating Gemini, OpenAI, and Claude models through unified APIs for Dentalbase AI platform
+- Designed WebSocket-based real-time notification system handling 5M+ events/day with 99.99% reliability using Redis Streams and Pub/Sub
+- Built two-way SMS communication system via Twilio for appointment scheduling and patient follow-ups
+- Engineered Keycloak-based Authentication & Authorization service with SSO and RBAC, reducing authentication latency by 40%
+- Launched AI-driven outbound agent system managing 1K+ automated patient interactions monthly, increasing scheduling efficiency by 50%
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+### Tools & Services
+
+![Keycloak](https://img.shields.io/badge/Keycloak-010101?logo=keycloak&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### AI & Machine Learning
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?logo=anthropic&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-000000?logo=qwen&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+---
+
+## Featured Projects
+
+**AI Agent Platform**  
+Full-stack AI agent platform built with Python and TypeScript  
+[View Repository](https://github.com/ahmedesmail07/ai-agent-platform)
+
+**Kickfunding API**  
+REST API using Django REST Framework for charity donations  
+[View Repository](https://github.com/ahmedesmail07/kickfunding-api-django-restframework)
+
+**E-commerce Store API**  
+Complete e-commerce API built with Django REST Framework  
+[View Repository](https://github.com/ahmedesmail07/store-api-django-restframework)
+
+**Real Estate Services**  
+Full-stack web application with Django & DRF featuring authentication, admin panels, and chat rooms  
+[View Repository](https://github.com/ahmedesmail07/real-estate-services)
+
+**Banking System (Nilex)**  
+Full-stack online banking system with Django, HTML, CSS, and JavaScript  
+[View Repository](https://github.com/ahmedesmail07/banking-system)
+
+---
+
+## Focus Areas
+
+- Scalable microservices architectures
+- AI/LLM integration and optimization
+- Real-time systems and high-throughput platforms
+- Authentication and authorization systems
+- Healthcare technology solutions
+
+---
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/ahmad-esmail07/) • [GitHub](https://github.com/ahmedesmail07) • [Email](mailto:ahmd.esmail.ali@gmail.com)
+
+</div>
