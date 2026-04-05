@@ -75,30 +75,6 @@ Building next-generation healthcare SaaS solutions with AI-powered automation an
 
 ---
 
-## Featured Projects
-
-**AI Agent Platform**  
-Full-stack AI agent platform built with Python and TypeScript  
-[View Repository](https://github.com/ahmedesmail07/ai-agent-platform)
-
-**Kickfunding API**  
-REST API using Django REST Framework for charity donations  
-[View Repository](https://github.com/ahmedesmail07/kickfunding-api-django-restframework)
-
-**E-commerce Store API**  
-Complete e-commerce API built with Django REST Framework  
-[View Repository](https://github.com/ahmedesmail07/store-api-django-restframework)
-
-**Real Estate Services**  
-Full-stack web application with Django & DRF featuring authentication, admin panels, and chat rooms  
-[View Repository](https://github.com/ahmedesmail07/real-estate-services)
-
-**Banking System (Nilex)**  
-Full-stack online banking system with Django, HTML, CSS, and JavaScript  
-[View Repository](https://github.com/ahmedesmail07/banking-system)
-
----
-
 ## Focus Areas
 
 - Scalable microservices architectures
